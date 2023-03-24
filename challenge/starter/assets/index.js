@@ -136,7 +136,7 @@ $.ajax({
                 }
            
             }
-
+// not sure why when i change the spacing this go wrong
             currentcity.text(response.city.name);
             currenttemp.text("Temp: "+response.list[0].main.temp+"°C");
             currentwind.text("Wind Speed: "+response.list[0].wind.speed);
