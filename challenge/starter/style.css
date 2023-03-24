@@ -1,0 +1,35 @@
+body{
+    /* padding: 40px; */
+    background-color: rgb(249, 219, 180);
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+/* .buttons{
+    /* background-color: rgb(0, 135, 135);
+} */
+
+.h1{
+    font-family: Arial, Helvetica, sans-serif;;
+    color:aliceblue;
+}
+.griddisplay{
+    display:flex;
+    justify-content: center;
+    background-color: azure;
+    padding:40px;
+}
+.griddisplay .buttons{
+    flex-direction: column;
+}
+#forecast {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+
+
+
+
