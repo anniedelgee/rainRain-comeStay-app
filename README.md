@@ -4,7 +4,7 @@
 This is an application that retrieves weather data from the OpenWeather API to return forecasts based on user input for cities. 
 
 ## Screenshot
-![screenshot of rainydayz app]("./starter/images/challenge/starter/images/Screenshot 2023-03-24 at 16.00.17.png")
+![screenshot of rainydayz app]("../starter/images/challenge/starter/images/Screenshot 2023-03-24 at 16.00.17.png")
 
 
 
