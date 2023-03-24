@@ -20,14 +20,14 @@ body{
     padding:40px;
 }
 .griddisplay .buttons{
-    flex-direction: column;
+    display:flex;
 }
 #forecast {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly;
-    padding: 40px;
+    margin-left: 40px;
 }
 
 
